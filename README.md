@@ -10,6 +10,4 @@
 📫 You are welcome to reach me on my LinkedIn Account: https://www.linkedin.com/in/omer-leibu/
  
  
- 🛠  Tech Stack
- 
-⋅⋅*  🌐   
+***  
